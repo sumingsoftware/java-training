@@ -1,9 +1,0 @@
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://eureka-server:8760/eureka/,http://eureka-server1:9761/eureka/
-server:
-  port: 9763
-spring: 
-  application: 
-    name: service-hi
