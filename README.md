@@ -61,11 +61,11 @@ JAVA 运行环境介绍
 <br>
         安装Eclipse
 
- ![image](https://github.com/sumingsoftware/images/blob/master/eclipse.png)
+ ![image](https://github.com/sumingsoftware/images/blob/master/eclipse1.png)
  
  
         安装完成后，点击eclipse.exe即可打开
  
-  ![image](https://github.com/sumingsoftware/images/blob/master/eclipse1.png)
+  ![image](https://github.com/sumingsoftware/images/blob/master/eclipse.png)
   
  
