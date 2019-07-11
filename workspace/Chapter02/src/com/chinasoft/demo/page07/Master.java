@@ -1,8 +1,5 @@
 package com.chinasoft.demo.page07;
 
-import com.chinasoft.demo.page.Dog;
-import com.chinasoft.demo.page.Penguin;
-
 public class Master {
 	public void Cure(Dog dog) {
 		if (dog.getHealth() < 50) {

@@ -2,33 +2,39 @@ package com.chinasoft.demo.page10;
 
 public class Penguin {
 	private String name = "qq";
-
+    
 	private int love = 20;
 
 	private int health = 99;
 
 	private String sex = "Q仔";
+	public void Penguin() {
+		name = "qq11";
+		love = 201;
+		sex = "Q仔1";
+		System.out.println("执行构造方法");
+	}
 
 	// 属性
 	/* 无参构造方法 */
 
-	public Penguin() {
+	/*public Penguin() {
 		name = "qq";
 		love = 20;
 		sex = "Q仔";
 		System.out.println("执行构造方法");
-	}
+	}*/
 
-	public void Penguin() {
+	/*public void Penguin() {
 		health = 10;
 		sex = "雄";
 		System.out.println("执行构造方法");
-	}
+	}*/
 
 	/**
 	 * 打印信息
 	 */
-	public void print() {
+	public static void print() {
 		System.out.println("企鹅的名字是" + name + ",健康值是" + health + ",性别是" + sex);
 	}
 
