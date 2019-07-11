@@ -26,12 +26,12 @@ JAVA 运行环境介绍
   ![image](https://github.com/sumingsoftware/images/blob/master/JAVA%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE1.png)
   点击高级系统设置<br>
   ![image](https://github.com/sumingsoftware/images/blob/master/JAVA%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE2.png)
-  点击环境变量<br>
+         点击环境变量
   ![image](https://github.com/sumingsoftware/images/blob/master/JAVA%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE3.png)
-  点击新建,变量名位置输入JAVA_HOME,变量值位置输入 C:\Program Files\Java\jdk1.8.0_152<br>
+        点击新建,变量名位置输入JAVA_HOME,变量值位置输入 C:\Program Files\Java\jdk1.8.0_152
   ![image](https://github.com/sumingsoftware/images/blob/master/JAVA%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE4.png)
  
-  设置Path<br>
+        设置Path<br>
   %JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
   设置Classpath（前面是.; ,不要忘记）
       .;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;
