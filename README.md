@@ -42,6 +42,7 @@ JAVA 运行环境介绍
         设置Path
         <br>
   %JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
+  <br>
         设置Classpath（前面是.; ,不要忘记）
         <br>
       .;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;
