@@ -6,6 +6,7 @@ JAVA 运行环境介绍
   下载JDK（windows版本有exe和zip包格式，建议下载zip包格式，zip包是免安装的）<br/>
   下载地址(任意选择一个版本)<br/>
       JDK8: https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+      <br>
       JDK12: https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html
   根据自己计算机从操作系统位数，选择对应的JDK版本进行下载<br/>
       JDK8
@@ -35,7 +36,7 @@ JAVA 运行环境介绍
   
   
 
-3.安装Eclipse(或者Intellij等编辑器)   
+4.安装Eclipse(或者Intellij等编辑器)   
 <br/>
  下载Eclipse<br/>   
  下载地址https://www.eclipse.org/downloads/   
