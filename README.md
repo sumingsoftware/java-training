@@ -50,7 +50,9 @@ JAVA 运行环境介绍
 3. 检查环境变量是否设置成功
 <br/>   
           打开DOS命令窗口，输入java -version, 点击回车，如果出现如下图的JDK版本信息，说明安装成功。
- ![image](https://github.com/sumingsoftware/images/blob/master/JAVA%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE%E6%A3%80%E6%9F%A5.png)
+          <br>
+          <br>
+        ![image](https://github.com/sumingsoftware/images/blob/master/JAVA%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE%E6%A3%80%E6%9F%A5.png)
   
 
 4.安装Eclipse(或者Intellij等编辑器)   
