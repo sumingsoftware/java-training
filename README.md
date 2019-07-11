@@ -22,7 +22,7 @@ JAVA 运行环境介绍
    ![image](https://github.com/sumingsoftware/images/blob/master/JDK%E5%AD%98%E6%94%BE%E7%9B%AE%E5%BD%95.png)
   
 2. 设置环境变量   <br>    
-        设置JAVA_HOME   
+        (1)设置JAVA_HOME   
         <br>
         C:\Program Files\Java\jdk1.8.0_152
         <br>
@@ -39,18 +39,18 @@ JAVA 运行环境介绍
         <br>
   ![image](https://github.com/sumingsoftware/images/blob/master/JAVA%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE4.png)
  <br>
-        设置Path
+        (2)设置Path
         <br>
   %JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
   <br>
-        设置Classpath（前面是.; ,不要忘记）
+        (3)设置Classpath（前面是.; ,不要忘记）
         <br>
       .;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;
   
 3. 检查环境变量是否设置成功
 <br/>   
           打开DOS命令窗口，输入java -version, 点击回车，如果出现如下图的JDK版本信息，说明安装成功。<br>
-  ![image](https://github.com/sumingsoftware/images/blob/master/JAVA%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE%E6%A3%80%E6%9F%A5.png)
+ ![image](https://github.com/sumingsoftware/images/blob/master/JAVA%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE%E6%A3%80%E6%9F%A5.png)
   
 
 4.安装Eclipse(或者Intellij等编辑器)   
