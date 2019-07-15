@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pet>
+	<dog>
+		<health>100</health>
+		<love>0</love>
+		<decHealth>18</decHealth>
+		<incLove>10</incLove>
+	</dog>
+	<penguin>
+		<health>100</health>
+		<love>0</love>
+		<decHealth>15</decHealth>
+		<incLove>8</incLove>
+	</penguin>
+</pet>
